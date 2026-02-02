@@ -24,10 +24,13 @@ Student • Tech enthusiast • Learning CS, Android porting stuff & physics
 ## some badges idk
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=immohammeeed&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=9333EA&icon_color=9333EA&text_color=c9d1d9&bg_color=0d1117" />
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/immohammeeed)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
+[![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.com/)
 
 </div>
-
 
 ---
 
