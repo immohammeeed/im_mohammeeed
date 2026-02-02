@@ -1,7 +1,22 @@
-name: main
-uses: lowlighter/metrics@latest
-with:
-  template: terminal
-  filename: metrics.terminal.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: header, metadata
+name: Metrics
+
+on:
+  workflow_dispatch:     # manual trigger
+  schedule:              # optional: daily update
+    - cron: '0 0 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate terminal metrics card
+        uses: lowlighter/metrics@latest
+        with:
+          template: terminal
+          filename: metrics.terminal.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, metadata
