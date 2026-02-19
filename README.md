@@ -4,7 +4,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=immohammeeed&label=profile%20views&color=1f6feb&style=flat" />
 
-Student • Tech enthusiast • Learning CS, Android porting stuff & physics  
+Student • Tech enthusiast • Learning CS, ~~Android porting stuff~~ & physics  
 
 </div>
 
@@ -13,7 +13,7 @@ Student • Tech enthusiast • Learning CS, Android porting stuff & physics
 ## About
 <div align="center">
 
-- Interested in **computer science**, **physics**, **Android porting** & **linux**
+- Interested in **computer science**, **physics**, ~~**Android porting**~~ & **linux**
 - I like weird tech projects that will make you rage quit too
 - im still a *noob* tho so dont judge ;)
 
@@ -47,8 +47,6 @@ Student • Tech enthusiast • Learning CS, Android porting stuff & physics
 ## Contact
 
  [![GitHub](https://img.shields.io/badge/GitHub-immohammeeed-1C1840?style=for-the-badge&logo=github&logoColor=white)](https://github.com/immohammeeed)
-
-[![Telegram](https://img.shields.io/badge/Telegram-@im_mohammeeed-5ca8e6?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/im_mohammeeed)
 
 [![XDA](https://img.shields.io/badge/XDA-Monux-a1024e?style=for-the-badge&logo=forum&logoColor=white)](https://xdaforums.com/m/monux.12643575/)
 
