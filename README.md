@@ -4,7 +4,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=immohammeeed&label=profile%20views&color=1f6feb&style=flat" />
 
-Student • Tech enthusiast • Learning CS, ~~Android porting stuff~~ & physics  
+Student • Tech enthusiast • Learning CS, Android porting stuff & physics  
 
 </div>
 
@@ -13,7 +13,7 @@ Student • Tech enthusiast • Learning CS, ~~Android porting stuff~~ & physics
 ## About
 <div align="center">
 
-- Interested in **computer science**, **physics**, ~~**Android porting**~~ & **linux**
+- Interested in **computer science**, **physics**, **Android porting** & **linux**
 - I like weird tech projects that will make you rage quit too
 - im still a *noob* tho so dont judge ;)
 
