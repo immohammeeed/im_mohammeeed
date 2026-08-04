@@ -4,7 +4,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=immohammeeed&label=profile%20views&color=1f6feb&style=flat" />
 
-Student • Tech enthusiast • Learning CS, Android porting stuff & physics  
+CS Student • Tech enthusiast • Learning new stuff constantly!
 
 </div>
 
@@ -43,14 +43,3 @@ Student • Tech enthusiast • Learning CS, Android porting stuff & physics
 </div>
 
 ---
-
-## Contact
-
- [![GitHub](https://img.shields.io/badge/GitHub-immohammeeed-1C1840?style=for-the-badge&logo=github&logoColor=white)](https://github.com/immohammeeed)
-
-[![XDA](https://img.shields.io/badge/XDA-Monux-a1024e?style=for-the-badge&logo=forum&logoColor=white)](https://xdaforums.com/m/monux.12643575/)
-
-[![Discord](https://img.shields.io/badge/Discord-Mohamed-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/918880410719637556)
-
- 
-
